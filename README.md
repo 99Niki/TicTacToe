@@ -20,7 +20,8 @@ Maven or Gradle (if using build tools)
 - Player X always starts first
 - The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins
 - If all cells are filled with no winner, the game ends in a draw
-- Click the "New Game" button to start a new match
+- Click the "Start a New Game" button to start a new match
+- Click the "Exit" button to quit the application
   
 # Screenshots
 <img width="712" height="381" alt="Screenshot 2025-10-05 at 2 03 15 PM" src="https://github.com/user-attachments/assets/28cc1c73-54e1-4201-89d6-53e59de60f9b" />
